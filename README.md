@@ -4,6 +4,7 @@
 - 👀 I’m interested in Web apps development
 - 🌱 I’m currently learning React js
 - 📫 Contact email: zawadhossain7@gmail.com
+- Official new account
 
 <!---
 Rifat-H7/Rifat-H7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
