@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Rifat-H7
 - 👀 I’m interested in Web apps development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Blockchain technology
 - 📫 Contact email: zawadhossain7@gmail.com
 - Official new account
 
