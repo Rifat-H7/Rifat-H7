@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-h7&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-h7" /> </p>
 
-- 🔭 I’m currently working on **Web 3.0**
+- 🔭 I’m currently working on **Spring Boot**
 
 - 🌱 I’m currently learning **Ethereum Blockchain**
 
