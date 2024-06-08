@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **Ethereum Blockchain**
+- 🌱 I’m currently learning **.Net Desktop**
 
 - 💬 Ask me about **Blockchain, Java Spring**
 
