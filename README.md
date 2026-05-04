@@ -1,26 +1,93 @@
-<h1 align="center">Hi 👋, I'm R!F4T</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat-h7&label=Profile%20views&color=0e75b6&style=flat" alt="rifat-h7" /> </p>
+```
+██████╗ ██╗███████╗ █████╗ ████████╗
+██╔══██╗██║██╔════╝██╔══██╗╚══██╔══╝
+██████╔╝██║█████╗  ███████║   ██║   
+██╔══██╗██║██╔══╝  ██╔══██║   ██║   
+██║  ██║██║██║     ██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝   ╚═╝   
+```
 
-- 🔭 I’m currently working on **ASP.Net Core**
+### Software Engineer · Dhaka, BD
 
-- 🌱 I’m currently learning **.Net Desktop**
+![Profile Views](https://komarev.com/ghpvc/?username=rifat-h7&label=Profile%20views&color=7F77DD&style=flat-square)
+&nbsp;
+![ASP.Net Core](https://img.shields.io/badge/Working_on-ASP.Net_Core-7F77DD?style=flat-square)
+&nbsp;
+![.Net Desktop](https://img.shields.io/badge/Learning-.Net_Desktop-BA7517?style=flat-square)
+&nbsp;
+![Blockchain](https://img.shields.io/badge/Ask_me-Blockchain_·_.Net-1D9E75?style=flat-square)
 
-- 💬 Ask me about **Blockchain, .Net**
+</div>
 
-- 📫 How to reach me **zawadhossain7@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-zawad-hossain-rifat-606454226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-zawad-hossain-rifat-606454226/" height="30" width="40" /></a>
-</p>
+## `> whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></p>
+```yaml
+name:     Md Zawad Hossain Rifat
+alias:    R!F4T
+role:     Software Engineer
+location: Dhaka, Bangladesh
+focus:    ASP.Net Core · Blockchain · .Net Desktop
+status:   Open to collaborate
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat-h7&show_icons=true&locale=en&layout=compact" alt="rifat-h7" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat-h7&show_icons=true&locale=en" alt="rifat-h7" /></p>
+## `> current_stack`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-h7&" alt="rifat-h7" /></p>
+<div align="center">
+
+| Languages | Frameworks | Databases | Tools |
+|:---------:|:----------:|:---------:|:-----:|
+| C# · C++ | ASP.Net Core | MySQL | Git |
+| JavaScript | Angular | Oracle | Linux |
+| Python | Spring | — | Figma |
+| Java · PHP | Node.js | — | Photoshop |
+
+</div>
+
+---
+
+## `> tech_icons`
+
+<div align="center">
+
+| C# | C++ | JS | Python | Java | PHP | Angular | Spring |
+|:--:|:---:|:--:|:------:|:----:|:---:|:-------:|:------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/> | <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> |
+
+| Node.js | MySQL | Oracle | OpenCV | TensorFlow | Figma | Linux | Git |
+|:-------:|:-----:|:------:|:------:|:----------:|:-----:|:-----:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> |
+
+</div>
+
+---
+
+## `> git_stats`
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifat-h7&theme=tokyonight&hide_border=true&background=0d1117&stroke=7F77DD&ring=1D9E75&fire=BA7517&currStreakLabel=c9d1d9" />
+</div>
+
+---
+
+## `> contact`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Zawad_Hossain_Rifat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-zawad-hossain-rifat-606454226/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-zawadhossain7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zawadhossain7@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>building things with .net · open to interesting problems</sub>
+</div>
